@@ -16,7 +16,7 @@
 I'm a Computer Science student at URI - Santiago, Brazil.
 <br><br>
 💼 Currently part of the AIR internship program at Compass UOL
-🌱 Learning SQL, Python, ETL, Pandas, Numpy, AWS (IAM, EC2, VPC, Lambda, Step Functions), EMR, Glue, Athena, QuickSight, and Apache Spark <br>
+🌱 Learning SQL and Python<br>
 📫 How to reach me: rdlp2411@gmail.com <br>
 💬 Hobbies: Games and Sports
 <br><br>
