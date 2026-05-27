@@ -15,7 +15,7 @@
 
 I'm a Computer Science student at URI - Santiago, Brazil.
 <br><br>
-🌱 Learning SQL and Python<br>
+🌱 Learning Java & Spring Boot<br>
 📫 How to reach me: rdlp2411@gmail.com <br>
 💬 Hobbies: Games and Sports
 <br><br>
