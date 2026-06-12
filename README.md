@@ -13,11 +13,11 @@
 ### Glad to see you here!  
 ![](https://komarev.com/ghpvc/?username=limarobs)
 
-I'm a Computer Science student at URI - Santiago, Brazil.
+I'm a Computer Science student at URI - Santiago, Rio Grande do Sul, Brazil.
 <br><br>
 🌱 Learning Java & Spring Boot<br>
 📫 How to reach me: rdlp2411@gmail.com <br>
-💬 Hobbies: Games and Sports
+💬 Hobbies: Games and Sports 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=limarobs&show_icons=true&hide_border=true&count_private=true" />
