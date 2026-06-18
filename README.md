@@ -1,24 +1,44 @@
-### Hi there, I'm Roberto Lima 👋
+# Roberto Lima 👋
 
+Computer Science Student | Java & Spring Boot Developer
+
+I'm a Computer Science student at URI and currently focused on backend development with Java and Spring Boot. I enjoy building projects, learning new technologies, and improving my software development skills through hands-on practice.
+
+## 🚀 Technologies
+
+- Java
+- Spring Boot
+- Python
+- Docker
+- Git & GitHub
+- AWS (Fundamentals)
+
+## 📚 Currently Learning
+
+- Spring Boot
+- REST APIs
+- Microservices
+- Cloud Computing (AWS)
+- Software Architecture
+
+## 💼 Projects
+
+Here you'll find personal projects, studies, and practical applications developed throughout my learning journey.
+
+## 📫 Contact
 
 <a href="https://www.linkedin.com/in/roberto-de-lima-pinto-388699260/">
-<img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:rdlp2411@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.instagram.com/lima_robs/">
-<img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<img align="right" width="50%" src="pc.png" style="padding-right:10% !important" >
+---
 
-### Glad to see you here!  
-![](https://komarev.com/ghpvc/?username=limarobs)
-
-I'm a Computer Science student at URI - Santiago, Rio Grande do Sul, Brazil.
-<br><br>
-🌱 Learning Java & Spring Boot<br>
-📫 How to reach me: rdlp2411@gmail.com <br>
-💬 Hobbies: Games and Sports 
-<br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=limarobs&show_icons=true&hide_border=true&count_private=true" />
-</a>
+*"Always learning, always building."*
