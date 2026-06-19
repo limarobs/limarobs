@@ -11,7 +11,7 @@ I'm a Computer Science student at URI and currently focused on backend developme
 - Python
 - Docker
 - Git & GitHub
-- AWS (Fundamentals)
+- AWS
 
 ## 📚 Currently Learning
 
