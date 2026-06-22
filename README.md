@@ -20,6 +20,7 @@ I'm a Computer Science student at URI and currently focused on backend developme
 - Microservices
 - Cloud Computing (AWS)
 - Software Architecture
+- Angular
 
 ## 💼 Projects
 
